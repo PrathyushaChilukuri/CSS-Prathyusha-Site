@@ -1,0 +1,156 @@
+body{
+    margin: 0px;
+    text-align: center;
+}
+
+.top-container{
+    background-color: #EAF6F6;
+    padding: 20px;
+    position: relative;
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: small;
+    font-weight: bolder;
+    color: #40514E;
+
+}
+
+.my-desc-profile
+{
+    width: 30%;
+    margin: 50px auto 0px auto;
+    line-height: 2;
+}
+
+hr{
+    width: 3%;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-style: dotted none none none;
+    border-width: 4px;
+    color: #EAF6F6;
+}
+
+.btn{
+    background-color: #66bfbf;
+    color: white;
+    font-size: small;
+    font-family: 'Montserrat', sans-serif;
+    margin: 30px auto 0px auto;
+    border-radius: 8px;
+    border-style: none;
+    padding: 5px 10px 5px 10px;
+    background-image: linear-gradient(to top left, rgba(0, 0, 0, .2), rgba(0, 0, 0, .2) 30%, rgba(0, 0, 0, 0));
+}
+
+
+
+h1{
+    margin: 150px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 4rem;
+    color: #66bfbf;
+   
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: #66bfbf;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+    font-size: medium;
+    font-weight: bold;
+}
+
+a{
+    color: #11999E;
+}
+
+.title-desc
+{
+    font-weight: normal;
+}
+
+#my-profile-pic{
+    width: 200px;
+    border-radius: 50%;
+}
+
+.skill1{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.skill2{
+    width: 20%;
+    float: right;
+    margin-left: 30px;
+   
+}
+
+.skill-row{
+    width: 50%;
+    margin: 50px auto 50px auto;
+    line-height: 2;
+    text-align: left;
+}
+
+title{
+    font-family: 'Italianno', cursive;
+}
+
+.top-cloud
+{
+    position: absolute;
+    right: 200px;
+    top:50px
+}
+
+.bottom-cloud
+{
+    position: absolute;
+    left: 200px;
+}
+
+.mountain{
+    width: 50%;
+    margin: auto;
+}
+
+.middle-container{
+    margin: 50px auto 50px auto;
+
+}
+
+.contact-me{
+    margin-top: 0px;
+   
+}
+.bottom-container{
+    margin-top: 50px;
+    background-color: #66bfbf;
+    padding: 20px;
+}
+
+.footer-link{
+    color: #11999e;
+    text-decoration: none;
+    margin: 20px;
+}
+
+.footer-para{
+    margin: 20px auto 0px auto;
+    color: white;
+    font-size: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    
+}
+

@@ -145,6 +145,10 @@ title{
     margin: 20px;
 }
 
+.footer-link:hover{
+    color: white;
+}
+
 .footer-para{
     margin: 20px auto 0px auto;
     color: white;

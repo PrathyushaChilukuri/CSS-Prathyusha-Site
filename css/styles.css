@@ -109,14 +109,14 @@ title{
 .top-cloud
 {
     position: absolute;
-    right: 200px;
-    top:50px
+    right: 12.5rem;
+    top:3.125rem;
 }
 
 .bottom-cloud
 {
     position: absolute;
-    left: 200px;
+    left: 12.5rem;
 }
 
 .mountain{
